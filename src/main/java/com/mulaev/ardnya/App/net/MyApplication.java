@@ -1,4 +1,4 @@
-package App.net;
+package com.mulaev.ardnya.App.net;
 
 import javax.servlet.ServletContext;
 import javax.ws.rs.GET;

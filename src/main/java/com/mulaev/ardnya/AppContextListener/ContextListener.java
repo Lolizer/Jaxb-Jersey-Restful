@@ -1,4 +1,4 @@
-package AppContextListener;
+package com.mulaev.ardnya.AppContextListener;
 
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;

@@ -14,7 +14,7 @@
         </servlet-class>
         <init-param>
             <param-name>jersey.config.server.provider.packages</param-name>
-            <param-value>App.net</param-value>
+            <param-value>com.mulaev.ardnya.App.net</param-value>
         </init-param>
         <load-on-startup>1</load-on-startup>
     </servlet>
@@ -26,7 +26,7 @@
 
     <listener>
         <listener-class>
-            AppContextListener.ContextListener
+            com.mulaev.ardnya.AppContextListener.ContextListener
         </listener-class>
     </listener>
 
